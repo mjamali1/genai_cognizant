@@ -9,4 +9,3 @@ elif age > 0:
     print("You are not eligible to vote yet. You have", diff, "years to go.")
 else:
     print("Invalid age entered. Please rerun the program and try again.")
-    
