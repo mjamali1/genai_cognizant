@@ -10,5 +10,3 @@ elif age > 0:
 else:
     print("Invalid age entered. Please rerun the program and try again.")
     
-
-
