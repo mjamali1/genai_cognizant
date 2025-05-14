@@ -1,0 +1,2 @@
+ERROR:root:ERROR:root:ZeroDivisionError occurred: division by zero
+2025-05-13 19:59:52,419:ERROR:ERROR:root:ValueError occurred: invalid input.
